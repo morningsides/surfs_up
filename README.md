@@ -1,1 +1,3 @@
-# surfs_up
+
+# Analysis
+Looking at the data from the months of December and June we can see that on average there is more precipitation in the months of December(0.216819) vs June(0.136360) so it might be advantageous to close up for the winter season. One caveat is we do have a slightly higher number of datapoints for June(1574) vs December(1405) so we might have an incomplete picture for our data analysis. Digging deeper we can see if we get a total number of weather stations in December that we had over 1517 weather stations tracking data vs June where we had over 1700 stations tracking data so that also shows more datapoints in June and possibly over a large swath of the area. 
